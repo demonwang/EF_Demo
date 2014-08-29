@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hifly299.HISF-Demo</string>
+				<string>com.hifly299.EF.HISF-Demo</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HISF_Demo</string>
+				<string>EF_Demo</string>
 			</dict>
 		</dict>
 	</array>
